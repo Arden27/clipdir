@@ -6,9 +6,9 @@
 
 Install `clipdir` globally with npm:
 
-    ```bash
+```bash
     npm install -g clipdir
-    ```
+```
 
 ## Usage
 
