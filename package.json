@@ -1,0 +1,17 @@
+{
+  "name": "clipdir",
+  "version": "1.0.0",
+  "description": "pack the files from the specified folder and copy to clipboard",
+  "main": "index.mjs",
+  "bin": {
+    "clipack": "index.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem Furman",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^4.0.0"
+  }
+}
