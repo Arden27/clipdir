@@ -7,16 +7,16 @@
 Install `clipdir` globally with npm:
 
 ```bash
-    npm install -g clipdir
+npm install -g clipdir
 ```
 
 ## Usage
 
 To use clipdir, navigate to the directory containing your target folder and run:
 
-    ```bash
-    clipdir /path/to/your/folder
-    ```
+```bash
+clipdir /path/to/your/folder
+```
 
 ## Contributing
 
