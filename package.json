@@ -1,10 +1,10 @@
 {
   "name": "clipdir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pack the files from the specified folder and copy to clipboard",
   "main": "index.mjs",
   "bin": {
-    "clipack": "index.mjs"
+    "clipdir": "index.mjs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
